@@ -14,7 +14,7 @@ You can find the bot on [Mika-ChatBot](https://mikachatbot.000webhostapp.com/).
 ![image](https://user-images.githubusercontent.com/82862124/235349501-7dfa1cc4-a451-4021-958b-5813c2840b13.png)
 
 
-Made with [PHP](https://th.bing.com/th/id/OIP.pkqphAig1t-PCsy4dkVrfAHaD5?w=280&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7).
+Made with ![PHP](https://th.bing.com/th/id/OIP.pkqphAig1t-PCsy4dkVrfAHaD5?w=280&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7).
 
 Made By [Devil](https://github.com/DEVILTG/).
 
